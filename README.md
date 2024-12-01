@@ -15,7 +15,8 @@ The **Exchange Rate Pipeline** project fetches exchange rates from an external A
 
 ## Architecture Diagram
 
-(If you have a diagram of your architecture, this would be a great place to include it. You can use tools like Lucidchart, draw.io, or even just a simple image.)
+![Research and design](https://github.com/user-attachments/assets/10374ad5-838d-42f2-a47c-d23ccd78e67f)
+
 
 ---
 
