@@ -15,7 +15,8 @@ The **Exchange Rate Pipeline** project fetches exchange rates from an external A
 
 ## Architecture Diagram
 
-![Research and design](https://github.com/user-attachments/assets/10374ad5-838d-42f2-a47c-d23ccd78e67f)
+![Research and design](https://github.com/user-attachments/assets/a194d9a7-c1c8-4df4-9a31-48f25f8845c6)
+
 
 
 ---
